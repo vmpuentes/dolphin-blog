@@ -1,0 +1,13 @@
+.blog-post{
+  font-family: cursive;
+}
+
+.blog-post h3{
+  text-decoration: underline;
+}
+
+.about-me{
+  text-align: center;
+  padding: 0 30%;
+  font-family:fantasy; 
+}
