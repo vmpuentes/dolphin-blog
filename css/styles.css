@@ -9,5 +9,12 @@
 .about-me{
   text-align: center;
   padding: 0 30%;
-  font-family:fantasy; 
+  font-family:fantasy;
+}
+p {
+  margin: 40px 10px;
+}
+
+.main {
+  text-align: center;
 }
